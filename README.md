@@ -5,7 +5,7 @@ Este proyecto utiliza la API de OpenAI para generar respuestas automáticas a pr
 
 ## Descripción del Código
 
-El archivo `main.py` realiza las siguientes funciones:
+El archivo `main.py` en la carpeta `src` realiza las siguientes funciones:
 
 - **Carga de la configuración del entorno**: Utiliza `dotenv` para cargar las variables de entorno necesarias para la configuración de la API.
 - **Configuración de logging**: Establece el nivel de logging y el formato para registrar eventos importantes y errores.
@@ -40,7 +40,7 @@ Para ejecutar este proyecto, necesitas realizar los siguientes pasos:
 Para ejecutar el script, simplemente usa el siguiente comando en la terminal:
 
 ```bash
-python main.py
+python src/main.py
 ```
 
 El script pedirá un prompt de usuario y luego mostrará la respuesta generada por el modelo GPT-3.5 Turbo de OpenAI en la consola.
