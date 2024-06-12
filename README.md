@@ -18,8 +18,8 @@ Para ejecutar este proyecto, necesitas realizar los siguientes pasos:
 
 1. **Clonar el Repositorio**:
    ```bash
-   git clone https://github.com/montinisebastian/Prompt-Template.git
-   cd Prompt-Template
+   git clone https://github.com/montinisebastian/Prompt-Template-OpenAI.git
+   cd Prompt-Template-OpenAI
    ```
 
 2. **Configurar Variables de Entorno**:
